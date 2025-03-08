@@ -1,0 +1,17 @@
+pandas
+ipykernel
+textblob
+nltk
+scikit-learn
+torch
+torchvision
+torchaudio
+torchtext
+datasets
+tokenizers
+torchmetrics
+tensorboard
+altair
+wandb
+spacy
+torchinfo
