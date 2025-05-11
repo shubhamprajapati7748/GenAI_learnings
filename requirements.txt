@@ -31,3 +31,13 @@ langchain_anthropic
 langchain_huggingface
 langchain_core
 grandalf
+
+## vectorDB
+pypdf
+faiss-cpu
+
+## llama_index
+llama_index
+llama_index.embeddings.huggingface
+llama-index-llms-ollama
+llama_index.llms.groq
